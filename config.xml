@@ -18,5 +18,6 @@
     </author>
 
     <!-- We'll include the Barcode plugin as an example -->
-    <gap:plugin name="com.phonegap.plugins.barcodescanner" />
+    <gap:plugin name="org.apache.cordova.dialogs.Notification" />
+    <gap:plugin name="org.apache.cordova.vibration.Vibration" />
 </widget>
