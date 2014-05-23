@@ -16,8 +16,5 @@
     <author href="https://build.phonegap.com" email="support@phonegap.com">
       Hardeep Shoker 
     </author>
-
-    <!-- We'll include the Barcode plugin as an example -->
-    <gap:plugin name="org.apache.cordova.dialogs.Notification" />
-    <gap:plugin name="org.apache.cordova.vibration.Vibration" />
+	<gap:plugin name="org.apache.cordova.vibration" version="0.3.7" />
 </widget>
